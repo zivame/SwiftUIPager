@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "SwiftUIPager"
-  s.version      = "1.0.0" # pod trunk me --verbose
+  s.version      = "1.0.2" # pod trunk me --verbose
   s.summary      = "Native pager for SwiftUI. Easily to use, easy to customize."
 
   s.description  = <<-DESC
